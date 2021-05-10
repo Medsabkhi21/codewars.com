@@ -1,2 +1,2 @@
-![Image of Yaktocat](https://www.codewars.com/users/Medsabkhi21/badges/large)
-my solutions for codewars problems using python
+![codewars](https://www.codewars.com/users/Medsabkhi21/badges/large)
+\n my solutions for codewars problems using python
